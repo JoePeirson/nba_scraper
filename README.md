@@ -1,2 +1,5 @@
 # nba_scraper
-A web scraper using selenium in python to scrape play by play game data and organise it into a simple table format
+
+## Introduction
+In this project I looked at a simple web scraper which collects data from the play by play commentary on espn.com for NBA games.
+
