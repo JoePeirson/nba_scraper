@@ -9,4 +9,4 @@ This programming language used to build this was Python. The main libraires I us
 ### How this tool can be used
 This is a very simplified scraper that can be used to analyse a players actions for each match. The data is formatted in a way one can look a players specific shots from a certain location, distance, type of shots and time in the match.
 
-<img width="400" alt="Screenshot 2020-10-11 at 12 11 59" src="https://user-images.githubusercontent.com/72214007/95676058-b77acb80-0bbb-11eb-83a2-18261cb39d71.png">
+<img width="550" alt="Screenshot 2020-10-11 at 12 11 59" src="https://user-images.githubusercontent.com/72214007/95676058-b77acb80-0bbb-11eb-83a2-18261cb39d71.png">
